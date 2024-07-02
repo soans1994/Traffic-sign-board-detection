@@ -6,6 +6,9 @@ We provide custom dataset by developing 3D models.
 Realism depends on the quality of the 3D model. Please check my project below for traffic sign boards, for example.
 
 - multiple resolutions
+- yolo, coco format bbox
+- depthmap/distance map
+- text and number charecter extraction
 - weather simulation, snow, fog, rain
 - day/night cycle
 - top view, side view, 360 random intrinsic camera rotations for view from all the angles. depends on your needs
@@ -30,6 +33,8 @@ Realism depends on the quality of the 3D model. Please check my project below fo
 ![object_bbox](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/ceb40858-4b4b-4e18-a5f8-4ab23bda4bf3)
 ![object_bbox](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/201596db-db99-42b1-9d5e-1e8f7e4df2d8)
 ![object_bbox](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/78a6e325-91d1-4523-81d4-e4f6b9caf522)
+![object_bbox](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/98aca9eb-2e28-41ad-b631-2a082e8b7ab9)
+![object_bbox](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/31f59f84-a776-49ca-a7dc-5ec1e3158bc7)
 
 
 
