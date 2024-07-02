@@ -9,7 +9,7 @@ Realism depends on the quality of the 3D model. Please check my project below fo
 - weather simulation, snow, fog, rain
 - day/night cycle
 - 360 intrinsic camera rotations for view from all the angles. depends on your needs
-- 
+  
 ![giphy](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/37081867-8ee3-47a6-96bb-61f0d6e2c16a)
 
 ![Screenshot 2024-05-12 022052](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/337e517d-2331-4493-8f4a-97c51520bdda)
