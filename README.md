@@ -5,7 +5,7 @@ Basically any objects with high resolution, pixel perfect bounding box annotatio
 We provide custom dataset by developing 3D models.
 Realism depends on the quality of the 3D model. Please check my project below for traffic sign boards, for example.
 
-- multiple resolutions
+- multiple resolutions(shown below: 512x512)
 - yolo, coco format bbox
 - depthmap/distance map
 - text and number charecter extraction
