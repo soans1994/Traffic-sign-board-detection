@@ -38,8 +38,8 @@ Realism depends on the quality of the 3D model. Please check my project below fo
 ![000279](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/41915ecd-0b0f-4960-9671-d736811c3db4)
 ![000276](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/3870d1c7-464a-401c-90a1-1b159b2e5401)
 ![0000271](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/2db5b9db-bc9d-419f-93fe-d3a4e46d6f81)
-![000256](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/0cdf94bc-c1fc-4f3f-8e72-0a7cb6455226)
-![000240](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/63c85008-81c1-44af-924d-6e974e885d38)
+![object_bbox](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/1299c803-08a0-4f86-8038-bc2aed74a4dd)
+
 ![000239](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/f450bf6d-30f8-4133-a703-3c19ab92f3d1)
 ![000205](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/5b7c0e23-e4d8-4b2c-bfed-f1e6732e26a9)
 ![000159](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/74627e92-88e0-466b-bab3-8de2dab6afec)
