@@ -21,24 +21,17 @@ Realism depends on the quality of the 3D model. Please check my project below fo
 ![national highway_2](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/6300aa72-3d39-4947-9b7d-5638dd51d4a9)
 ![general info_2](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/d9d6849f-84c3-4069-abf1-6926a9ee02d3)
 ![expressway sheild_2](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/764a863a-757a-4434-bd3f-48b8dd843af7)
-![object_bbox](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/1fc29e6c-1ed2-4a04-9a21-440ccff5812d)
-![keypoints_pred](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/da676841-5c7a-4761-8e8b-a4ea01b8842e)
-![a7](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/5d1f14a3-e773-4d7a-85fd-6536238b970f)
-![object_bbox](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/f89b2cd6-d747-46f4-8ce4-63bef4d77613)
-![object_bbox](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/4dbdd30b-dc6f-43ab-9dec-2de5ca76f132)
-![object_bbox](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/f0f5961c-c311-4611-a2c1-077195072a9c)
-![object_bbox](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/095bf00f-ff73-4b6f-8549-561f4f766acb)
-![object_bbox](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/408432b8-fa05-407a-9d80-956a58530e65)
-![object_bbox](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/33eb98f5-9b87-4a8e-a98d-b39c813b9995)
 
-![000553](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/d7445ba0-92f1-44d3-afe9-a37eea96fc3e)
-![000363](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/4150776d-cdcb-49db-8d3b-3cdd2fb626fb)
-![000347](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/e20685ec-d9f7-4434-ac2d-ec50c65ee2ca)
-![000285](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/f858400c-c859-4a02-9fba-93cbdb5da0e8)
 
-![000276](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/3870d1c7-464a-401c-90a1-1b159b2e5401)
-![object_bbox](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/c41c2031-0b18-4c6e-be13-23888019408a)
-![Uploading object_bbox.png…]()
+![object_bbox](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/d2442001-06c9-4b27-8927-7c785dee6a51)
+![keypoints_pred](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/ca0a5c76-da3f-4efa-aaec-a24ebb17b04e)
+![a7](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/92b2a2e6-7165-40a5-9db1-5c7066778288)
+![object_bbox](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/521ee8cf-7685-4a86-90d2-b0e815aeba4f)
+![object_bbox](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/ceb40858-4b4b-4e18-a5f8-4ab23bda4bf3)
+![object_bbox](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/201596db-db99-42b1-9d5e-1e8f7e4df2d8)
+![object_bbox](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/78a6e325-91d1-4523-81d4-e4f6b9caf522)
+
+
 
 
 ![000239](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/f450bf6d-30f8-4133-a703-3c19ab92f3d1)
