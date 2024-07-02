@@ -1,7 +1,7 @@
 # Traffic-sign-board-detection
 Large scale synthetic dataset for object detection
 
-Basically any objects with high resolution, pixel perfect annotation.
+Basically any objects with high resolution, pixel perfect bounding box annotations.
 We provide custom dataset by developing 3D models.
 Realism depends on the quality of the 3D model. Please check my project below for traffic sign boards, for example.
 
