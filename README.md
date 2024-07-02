@@ -1,6 +1,8 @@
 # Traffic-sign-board-detection
 Large scale synthetic dataset for object detection
 
+![giphy](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/37081867-8ee3-47a6-96bb-61f0d6e2c16a)
+
 ![Screenshot 2024-05-12 022052](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/337e517d-2331-4493-8f4a-97c51520bdda)
 ![Screenshot 2024-05-12 015958](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/5951f87c-5048-421e-bd53-b418cc175f1e)
 ![Screenshot 2024-05-12 012645](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/298a9436-ad62-4279-bfbd-3b9405eadfcb)
