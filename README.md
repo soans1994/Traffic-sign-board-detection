@@ -1,5 +1,5 @@
 # Traffic-sign-board-detection
-Large scale synthetic dataset using blender
+Large scale synthetic dataset for object detection
 
 ![Screenshot 2024-05-12 022052](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/337e517d-2331-4493-8f4a-97c51520bdda)
 ![Screenshot 2024-05-12 015958](https://github.com/soans1994/Traffic-sign-board-detection/assets/30766648/5951f87c-5048-421e-bd53-b418cc175f1e)
