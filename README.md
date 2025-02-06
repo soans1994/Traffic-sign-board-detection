@@ -2,6 +2,7 @@
 Large scale synthetic dataset for object detection
 
 Research Article: https://www.mdpi.com/2076-3417/14/14/6352
+
 Basically any objects with high resolution, pixel perfect bounding box annotations.
 We provide custom dataset by developing 3D models.
 Realism depends on the quality of the 3D model. Please check my project below for traffic sign boards, for example.
